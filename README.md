@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate programming student at New Jersey Institute of Technology.</h3>
 
-- 🔭 I’m currently working as **Data Analyst at Mars**
+- 🔭 I’m currently working as a **Data Analyst at Mars**
 
 - 🌱 I’m currently learning **Advanced Website Development, System Integrations, Flask, RabbitMQ, JavaScript and React.js**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1AO9ITS3eA6OX35qGhR8uQseg0Mtkl02D/view?usp=sharing)
 
-- ⚡ Fun fact **I am trying to learn Spanish.**
+- ⚡ Fun fact: **I am trying to learn Spanish.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
