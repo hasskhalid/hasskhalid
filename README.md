@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasskhalid](https://github.com/hasskhalid)
 
-- 💬 Ask me about **react, CSS, python, and Marvel lore!**
+- 💬 Ask me about **Next.js, CSS, python, and Marvel lore!**
 
 - 📫 How to reach me: **Hassan.Khalid.99@outlook.com**
 
