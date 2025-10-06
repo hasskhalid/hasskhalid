@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A determined data scientist!</h3>
+<h3 align="center">A Data Scientist trying to become a Software Engineer!</h3>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668975ef501413692ba3e624?variant=dark" alt="roadmap.sh"/></a>
 
@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, PySpark, LLMs, Data Science, GenAI, PBI**
 
-- 💬 Ask me about **React, ML/LLMs, and AI**
+- 💬 Ask me about **React, Python Libraries, ML/LLMs, and AI**
 
 - 📫 How to reach me **hassan.khalid.99@outlook.com**
 
 - 📄 Know about my experiences [<Resume Link>](<Resume Link>)
 
-- ⚡ Fun fact **I love being a productive monkey!**
+- ⚡ Fun fact **I love playing puzzle games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hassan~khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan~khalid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasskhalid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasskhalid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
