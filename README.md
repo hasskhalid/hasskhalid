@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A Data Scientist trying to become a Software Engineer!</h3>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668975ef501413692ba3e624?variant=dark" alt="roadmap.sh"/></a>
-
 - 🔭 I’m currently working as a **Data Scientist at Mars**
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, PySpark, LLMs, Data Science, GenAI, PBI**
