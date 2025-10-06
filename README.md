@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **hassan.khalid.99@outlook.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YtyBE2ZYwK7mvg1gXE3H2jHdL0bNsyWY/view?usp=share_link](https://drive.google.com/file/d/1YtyBE2ZYwK7mvg1gXE3H2jHdL0bNsyWY/view?usp=share_link)
+
 - ⚡ Fun fact **I love playing games with puzzles!**
 
 <h3 align="left">Connect with me:</h3>
